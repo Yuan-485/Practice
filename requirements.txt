@@ -1,4 +1,6 @@
 fastai
-voila
-ipywidgets
 torch
+fastdownload
+ipywidgets
+voila
+requests
